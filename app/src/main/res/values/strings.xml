@@ -12,5 +12,10 @@
     <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="forgot_password">Password</string>
+    <string name="confirm_password">Confirm Pwd</string>
+    <string name="phone_no">+257 *** *** ***</string>
+    <string name="send">Send</string>
+    <string name="complete">Complete</string>
+    <string name="verification">Verification Code</string>
 
 </resources>
